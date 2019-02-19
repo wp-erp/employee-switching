@@ -1,18 +1,9 @@
 {
 	"name"       : "Employee switching",
-	"description": "WordPress plugin that provides instant switching between Employeef accounts.",
-	"homepage"   : "",
+	"description": "WordPress plugin that provides instant switching between Employee of accounts.",
+	"homepage"   : "https://github.com/wp-erp/employee-switching.git",
 	"type"       : "wordpress-plugin",
 	"license"    : "GPL-2.0-or-later",
-	"authors"    : [
-		{
-			"name"    : "",
-			"homepage": ""
-		}
-	],
-	"config": {
-		"sort-packages": true
-	},
 	"require": {
 		"composer/installers": "^1"
 	},
